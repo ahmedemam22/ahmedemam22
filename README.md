@@ -8,8 +8,11 @@
 <ul>
    <li>Flutter Developer</li>
   <li>Android Developer</li>
+
   
 </ul>
+<p>I'm a Mid-Senior Software Engineer, B. SC. in Computer Science passionate about Mobile Programming with 4-years experience in mobile development(Flutter and Android native).
+</p>
 <div id="badges">
   <a href="https://www.linkedin.com/in/ahmed-emam-969b44176/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
