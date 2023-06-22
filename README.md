@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
 </div>
 
-<h1>Mid-Senior Flutter Developer at iLEAD
+<h1>Senior Mobile Developer || Flutter
 </h1>
 <ul>
    <li>Flutter Developer</li>
