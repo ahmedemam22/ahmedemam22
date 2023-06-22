@@ -11,7 +11,7 @@
 
   
 </ul>
-<p>I'm a Mid-Senior Software Engineer, B. SC. in Computer Science passionate about Mobile Programming with 4-years experience in mobile development(Flutter and Android native).
+<p>I'm a Senior Software Engineer, B. SC. in Computer Science passionate about Mobile Programming with 4-years experience in mobile development(Flutter and Android native).
 </p>
 <div id="badges">
   <a href="https://www.linkedin.com/in/ahmed-emam-969b44176/">
