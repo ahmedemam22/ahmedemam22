@@ -104,29 +104,7 @@ maintenance services.
   </a>
 
 </div>
-<h3>Dalil ElShrouk - دليل الشروق
-</h3>
-<p>An app that helps you choose between a large group of technicians and service providers You only have to submit a
-request for the type of service required, whether plumbing, carpentry, or sudden or urgent faults
-maintenance services.
-</p>
-<div id="stores">
- <a href="https://apps.apple.com/us/app/dalil-el-shrouk-%D8%AF%D9%84%D9%8A%D9%84-%20%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D9%82/id1540026216">
-    <img 
-      class="apple"
-   src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1276560000&h=7e7b68fad19738b5649a1bfb78ff46e9" 
-         width="200" height="100"
-      alt="Get it on App Store">
-  </a>
- <a href='https://play.google.com/store/apps/details?id=io.dalil'>
-    <img 
-      class="android" 
-      alt='Get it on Google Play' 
-            width="230" height="100"
-      src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' />
-  </a>
 
-</div>
 <h3>Muthalth
 </h3>
 <p>Facilitating successful and safe domestic trade is our main priority and our ambition is to continue to develop a community market where the country can thrive.
