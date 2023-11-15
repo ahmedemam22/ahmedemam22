@@ -40,10 +40,10 @@ The application is based on Bloom’s Taxonomy (Study/Practice/Test/Assess) desi
 educational objectives in an easy-to-use format.
 </p>
 <div id="stores">
- <a href="https://apps.apple.com/us/app/dalil-el-shrouk-%D8%AF%D9%84%D9%8A%D9%84-%20%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D9%82/id1540026216">
+ <a href="https://apps.apple.com/eg/app/aladwaa-education/id1540942437">
     <img 
       class="apple"
-   src="https://apps.apple.com/eg/app/aladwaa-education/id1540942437" 
+   src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1276560000&h=7e7b68fad19738b5649a1bfb78ff46e9" 
          width="200" height="100"
       alt="Get it on App Store">
   </a>
@@ -54,17 +54,21 @@ educational objectives in an easy-to-use format.
             width="230" height="100"
       src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' />
   </a>
+
+</div>
+
 <h3>Qessatie
 </h3>
 <p>the enchanting storytelling app that brings the magical world of Disney and Nahdet Misr stories to life! Dive into a
 captivating collection of animated and narrated tales, beautifully crafted to ignite your child's imagination and love for
 reading.
+
 </p>
 <div id="stores">
- <a href="https://apps.apple.com/us/app/dalil-el-shrouk-%D8%AF%D9%84%D9%8A%D9%84-%20%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D9%82/id1540026216">
+ <a href="https://apps.apple.com/eg/app/qessatie/id1574335162">
     <img 
       class="apple"
-   src="https://apps.apple.com/eg/app/qessatie/id1574335162" 
+   src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1276560000&h=7e7b68fad19738b5649a1bfb78ff46e9" 
          width="200" height="100"
       alt="Get it on App Store">
   </a>
@@ -76,7 +80,6 @@ reading.
       src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' />
   </a>
 
-</div>
 </div>
 <h3>Dalil ElShrouk - دليل الشروق
 </h3>
