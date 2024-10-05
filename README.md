@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
 </div>
 
-<h1>Senior Mobile Developer || Flutter
+<h1>Senior Software Engineer || Flutter Developer
 </h1>
 <ul>
    <li>Flutter Developer</li>
@@ -11,7 +11,7 @@
 
   
 </ul>
-<p>I'm a Senior Software Engineer, B. SC. in Computer Science passionate about Mobile Programming with 4-years experience in mobile development(Flutter and Android native).
+<p>Hey There! I'm a Senior Software Engineer, B. SC. in Computer Science passionate about Mobile App Development with great passion about clean code and problem solving . Skilled in Mobile App development using Flutter Framework and Android Native Using Java.Have a good knowledge about Designing UI/UX.  I have successfully delivered a range of projects across different industries, always staying ahead of trends in mobile technology. Whether working individually or as part of a team, I thrive on challenges that push me to continuously evolve my skills.
 </p>
 <div id="badges">
   <a href="https://www.linkedin.com/in/ahmed-emam-969b44176/">
