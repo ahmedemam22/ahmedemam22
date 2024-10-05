@@ -67,7 +67,7 @@ reading.
  <a href="https://apps.apple.com/eg/app/qessatie/id1574335162">
     <img 
       class="apple"
-   src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1276560000&h=7e7b68fad19738b5649a1bfb78ff46e9" 
+   src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" 
          width="200" height="100"
       alt="Get it on App Store">
   </a>
@@ -90,7 +90,7 @@ maintenance services.
  <a href="https://apps.apple.com/us/app/dalil-el-shrouk-%D8%AF%D9%84%D9%8A%D9%84-%20%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D9%82/id1540026216">
     <img 
       class="apple"
-   src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1276560000&h=7e7b68fad19738b5649a1bfb78ff46e9" 
+   src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" 
          width="200" height="100"
       alt="Get it on App Store">
   </a>
@@ -113,7 +113,7 @@ By connecting buyers and sellers in the local community, across hundreds of cate
  <a href="https://apps.apple.com/us/app/%D9%85%D8%AB%D9%84%D8%AB/id1550110291">
     <img 
       class="apple"
-   src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1276560000&h=7e7b68fad19738b5649a1bfb78ff46e9" 
+   src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" 
          width="200" height="100"
       alt="Get it on App Store">
   </a>
@@ -135,7 +135,7 @@ application and providing offers and discounts for companies.
  <a href="https://apps.apple.com/us/app/%D9%88%D9%8A%D9%86-%D8%A7%D8%B1%D9%88%D8%AD/id1562572350">
     <img 
       class="apple"
-   src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1276560000&h=7e7b68fad19738b5649a1bfb78ff46e9" 
+   src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" 
          width="200" height="100"
       alt="Get it on App Store">
   </a>
@@ -158,7 +158,7 @@ services.
  <a href="https://apps.apple.com/us/app/helper-%D9%87%D9%8A%D9%84%D8%A8%D8%B1/id1549451685">
     <img 
       class="apple"
-   src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1276560000&h=7e7b68fad19738b5649a1bfb78ff46e9" 
+   src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" 
          width="200" height="100"
       alt="Get it on App Store">
   </a>
