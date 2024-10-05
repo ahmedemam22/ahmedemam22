@@ -45,7 +45,7 @@ educational objectives in an easy-to-use format.
       class="apple"
        width="230" height="150"
    src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" 
-         width="200" height="100"
+        
       alt="Get it on App Store">
   </a>
  <a href='https://play.google.com/store/apps/details?id=com.nahdetmisr.adwaa&hl=en&gl=US'>
