@@ -43,7 +43,7 @@ educational objectives in an easy-to-use format.
  <a href="https://apps.apple.com/eg/app/aladwaa-education/id1540942437">
    <img 
       class="apple"
-   src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us" 
+   src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" 
          width="200" height="100"
       alt="Get it on App Store">
   </a>
