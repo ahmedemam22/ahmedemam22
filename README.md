@@ -51,8 +51,9 @@ educational objectives in an easy-to-use format.
  <a href='https://play.google.com/store/apps/details?id=com.nahdetmisr.adwaa&hl=en&gl=US'>
     <img 
       class="android" 
+                  width="230" height="150"
+
       alt='Get it on Google Play' 
-            width="230" height="100"
       src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' />
   </a>
 
