@@ -44,7 +44,7 @@ educational objectives in an easy-to-use format.
     <img 
       class="apple"
        width="230" height="100"
-   src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/2560px-Download_on_the_App_Store_Badge.svg.png" 
+   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3PHgC6IQOgvyIZdq-DS3jr8VprWjzm7zxnw&s" 
          width="200" height="100"
       alt="Get it on App Store">
   </a>
