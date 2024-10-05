@@ -41,22 +41,19 @@ educational objectives in an easy-to-use format.
 </p>
 <div id="stores">
  <a href="https://apps.apple.com/eg/app/aladwaa-education/id1540942437">
-    <img 
+   <img 
       class="apple"
-       width="230" height="150"
-   src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" 
-        
+   src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1276560000&h=7e7b68fad19738b5649a1bfb78ff46e9" 
+         width="200" height="100"
       alt="Get it on App Store">
   </a>
  <a href='https://play.google.com/store/apps/details?id=com.nahdetmisr.adwaa&hl=en&gl=US'>
     <img 
       class="android" 
-                  width="230" height="150"
-
       alt='Get it on Google Play' 
+            width="230" height="100"
       src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' />
   </a>
-
 </div>
 
 <h3>Qessatie
