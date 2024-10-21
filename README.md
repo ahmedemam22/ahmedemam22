@@ -80,6 +80,26 @@ reading.
   </a>
 
 </div>
+<h3>IE-Learn
+</h3>
+<p>IE-Learn is a comprehensive e-learning platform designed to make online education more interactive and engaging. With seamless integration of Zoom for live lessons, students can connect with instructors in real time, fostering a dynamic learning experience. Access a vast library of course materials, available anytime, to deepen your understanding of subjects at your own pace.
+</p>
+<div id="stores">
+ <a href="https://apps.apple.com/eg/app/ie-learn/id6476888667">
+   <img 
+      class="apple"
+   src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" 
+         width="200" height="100"
+      alt="Get it on App Store">
+  </a>
+ <a href='https://play.google.com/store/apps/details?id=com.fajebdaa.ielearn'>
+    <img 
+      class="android" 
+      alt='Get it on Google Play' 
+            width="230" height="100"
+      src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' />
+  </a>
+</div>
 <h3>Dalil ElShrouk - دليل الشروق
 </h3>
 <p>An app that helps you choose between a large group of technicians and service providers You only have to submit a
