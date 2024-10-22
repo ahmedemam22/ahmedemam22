@@ -80,6 +80,14 @@ reading.
   </a>
 
 </div>
+<h3>Qessatie Web (Landing Page)
+</h3>
+<p>a Landing Page For Qessatie App.
+</p>
+<div id="weblink">
+ <a href="https://www.qessatie.com">Visit Qessatie!</a>
+
+</div>
 <h3>IE-Learn
 </h3>
 <p>IE-Learn is a comprehensive e-learning platform designed to make online education more interactive and engaging. With seamless integration of Zoom for live lessons, students can connect with instructors in real time, fostering a dynamic learning experience. Access a vast library of course materials, available anytime, to deepen your understanding of subjects at your own pace.
