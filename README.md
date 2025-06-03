@@ -26,6 +26,9 @@
     <a href="https://wa.me/+201112807193">
     <img src="https://img.shields.io/badge/Whatsapp-dark green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
+  <a href="https://ahmed-emam-gad-kka9sr1.gamma.site">
+    <img src="https://img.shields.io/badge/Whatsapp-dark green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+  </a>
 </div>
 <hr>
 
