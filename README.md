@@ -122,7 +122,7 @@ maintenance services.
          width="200" height="100"
       alt="Get it on App Store">
   </a>
- <a href='https://play.google.com/store/apps/details?id=io.dalil'>
+ <a href='https://play.google.com/store/apps/details?id=eg.townmap.elshrouq&pcampaignid=web_share'>
     <img 
       class="android" 
       alt='Get it on Google Play' 
